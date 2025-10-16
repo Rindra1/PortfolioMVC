@@ -21,6 +21,9 @@ public class PortfolioController : Controller
     {
         try
         {
+            ViewData["Title"] = "Accueil - Mon Portfolio";
+            ViewData["Description"] = "Découvrez mon portfolio en tant que développeur .NET et mes projets avec API.";
+            ViewData["Canonical"] = "https://monportfolio.com/";
             var portfolio = await _http.GetFromJsonAsync<PortfolioModel>("api/portfolio");
 
 
