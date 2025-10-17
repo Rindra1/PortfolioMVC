@@ -1,0 +1,7 @@
+C:\DotNetCoreApp\PortfolioMVC\publish\PortfolioMVC.exe
+C:\DotNetCoreApp\PortfolioMVC\publish\appsettings.Development.json
+C:\DotNetCoreApp\PortfolioMVC\publish\appsettings.json
+C:\DotNetCoreApp\PortfolioMVC\publish\PortfolioMVC.dll
+C:\DotNetCoreApp\PortfolioMVC\publish\PortfolioMVC.deps.json
+C:\DotNetCoreApp\PortfolioMVC\publish\PortfolioMVC.runtimeconfig.json
+C:\DotNetCoreApp\PortfolioMVC\publish\PortfolioMVC.pdb

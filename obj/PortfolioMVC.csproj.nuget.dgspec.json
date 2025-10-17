@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj": {}
+    "C:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj": {}
   },
   "projects": {
-    "c:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj": {
+    "C:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj",
+        "projectUniqueName": "C:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj",
         "projectName": "PortfolioMVC",
-        "projectPath": "c:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj",
+        "projectPath": "C:\\DotNetCoreApp\\PortfolioMVC\\PortfolioMVC.csproj",
         "packagesPath": "C:\\Users\\Rindra\\.nuget\\packages\\",
-        "outputPath": "c:\\DotNetCoreApp\\PortfolioMVC\\obj\\",
+        "outputPath": "C:\\DotNetCoreApp\\PortfolioMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
