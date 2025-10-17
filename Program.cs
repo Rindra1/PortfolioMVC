@@ -9,6 +9,10 @@ builder.Services.AddHttpClient("API", client =>
 });
 builder.Services.AddScoped(sp => sp.GetRequiredService<IHttpClientFactory>().CreateClient("API"));
 
+builder.Services.AddHttpClient();
+builder.Services.AddHostedService<PortfolioMVC.Services.PingService>();
+
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
