@@ -3,7 +3,14 @@
     ViewData["Title"] = "Home";
 }
 
-<header id="home" class="hero">
+
+@if (Model == null || !Model.Any())
+{
+    <p>⚠️ Impossible de charger les données du portfolio pour le moment. Réessaie plus tard.</p>
+}
+else
+{
+    <header id="home" class="hero">
   <div class="layer layer-back"></div>
   <div class="layer layer-mid"></div>
   <div class="layer layer-front">
@@ -151,6 +158,9 @@
     </div>
   </div>
 </div>
+}
+
+
 
 @section Scripts {
   <script>
