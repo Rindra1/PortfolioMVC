@@ -30,4 +30,4 @@ Il est construit avec les technologies suivantes :
 
 1. Clone le repository :
    ```bash
-   git clone https://github.com/ton-utilisateur/portfolio-mvc.git
+   [git clone https://github.com/ton-utilisateur/portfolio-mvc.git](https://github.com/Rindra1/PortfolioMVC.git)
